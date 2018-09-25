@@ -2,6 +2,7 @@
 hello-world
 
 tsting
+new testing
 
 TTY /dev/ttyUSB0
 READ_TIME 1000
