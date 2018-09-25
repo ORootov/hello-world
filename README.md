@@ -1,6 +1,7 @@
 # hello-world
 hello-world
 
+test
 
 TTY /dev/ttyUSB0
 READ_TIME 1000
